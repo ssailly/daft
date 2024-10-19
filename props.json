@@ -1,0 +1,8 @@
+{
+	"_comment": "You should replace the values with your own",
+	"client_id": "some_id",
+	"client_secret": "some_secret",
+	"redirect_uri": "some_uri",
+	"last_50_name": "daft_50",
+	"rand_50_name": "50_punk"
+}
